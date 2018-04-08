@@ -1063,12 +1063,12 @@ Wire Wire Line
 $Comp
 L power:GND #PWR012
 U 1 1 5AC9C72F
-P 4600 5950
-F 0 "#PWR012" H 4600 5700 50  0001 C CNN
-F 1 "GND" H 4605 5777 50  0000 C CNN
-F 2 "" H 4600 5950 50  0001 C CNN
-F 3 "" H 4600 5950 50  0001 C CNN
-	1    4600 5950
+P 4600 6350
+F 0 "#PWR012" H 4600 6100 50  0001 C CNN
+F 1 "GND" H 4605 6177 50  0000 C CNN
+F 2 "" H 4600 6350 50  0001 C CNN
+F 3 "" H 4600 6350 50  0001 C CNN
+	1    4600 6350
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -1471,20 +1471,20 @@ F 3 "" H 10150 6000 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	10150 6400 9650 6400
-Wire Wire Line
-	10150 6100 9650 6100
-Wire Wire Line
 	10150 6300 9650 6300
 Wire Wire Line
+	10150 6400 9650 6400
+Wire Wire Line
 	10150 6200 9650 6200
-Text Label 9650 6400 0    50   ~ 0
-DB7
-Text Label 9650 6100 0    50   ~ 0
-RESET
+Wire Wire Line
+	10150 6100 9650 6100
 Text Label 9650 6300 0    50   ~ 0
-DB6
+DB7
+Text Label 9650 6400 0    50   ~ 0
+RESET
 Text Label 9650 6200 0    50   ~ 0
+DB6
+Text Label 9650 6100 0    50   ~ 0
 DB5
 $Comp
 L power:+5V #PWR035
@@ -1701,7 +1701,7 @@ U 1 1 5ABF2E7D
 P 4400 5350
 F 0 "J12" H 4480 5392 50  0000 L CNN
 F 1 "50V_GND" H 4480 5301 50  0000 L CNN
-F 2 "MountingHole:MountingHole_4mm_Pad_Via" H 4400 5350 50  0001 C CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4_Pad_Via" H 4400 5350 50  0001 C CNN
 F 3 "~" H 4400 5350 50  0001 C CNN
 	1    4400 5350
 	-1   0    0    1   
@@ -1765,13 +1765,13 @@ $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J13
 U 1 1 5AC4226B
-P 950 7000
-F 0 "J13" H 870 6675 50  0000 C CNN
-F 1 "TERMISTOR" H 870 6766 50  0000 C CNN
-F 2 "Connector_JST:JST_XH_B02B-XH-A_1x02_P2.50mm_Vertical" H 950 7000 50  0001 C CNN
-F 3 "~" H 950 7000 50  0001 C CNN
-	1    950  7000
-	-1   0    0    -1  
+P 950 7100
+F 0 "J13" H 870 6775 50  0000 C CNN
+F 1 "TERMISTOR" H 870 6866 50  0000 C CNN
+F 2 "Connector_JST:JST_XH_B02B-XH-A_1x02_P2.50mm_Vertical" H 950 7100 50  0001 C CNN
+F 3 "~" H 950 7100 50  0001 C CNN
+	1    950  7100
+	-1   0    0    1   
 $EndComp
 Wire Wire Line
 	1150 7100 1300 7100
@@ -1788,7 +1788,7 @@ U 1 1 5ACC1DC1
 P 4400 5550
 F 0 "J14" H 4480 5592 50  0000 L CNN
 F 1 "50V_GND" H 4480 5501 50  0000 L CNN
-F 2 "MountingHole:MountingHole_4mm_Pad_Via" H 4400 5550 50  0001 C CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4_Pad_Via" H 4400 5550 50  0001 C CNN
 F 3 "~" H 4400 5550 50  0001 C CNN
 	1    4400 5550
 	-1   0    0    1   
@@ -1799,24 +1799,24 @@ Wire Wire Line
 $Comp
 L Connector_Specialized:Screw_Terminal_01x01 J15
 U 1 1 5ACC1E9F
-P 4400 5750
-F 0 "J15" H 4480 5792 50  0000 L CNN
-F 1 "50V_GND" H 4480 5701 50  0000 L CNN
-F 2 "MountingHole:MountingHole_4mm_Pad_Via" H 4400 5750 50  0001 C CNN
-F 3 "~" H 4400 5750 50  0001 C CNN
-	1    4400 5750
+P 4400 5950
+F 0 "J15" H 4480 5992 50  0000 L CNN
+F 1 "50V_GND" H 4480 5901 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 4400 5950 50  0001 C CNN
+F 3 "~" H 4400 5950 50  0001 C CNN
+	1    4400 5950
 	-1   0    0    1   
 $EndComp
 Connection ~ 4600 5750
 $Comp
 L Connector_Specialized:Screw_Terminal_01x01 J16
 U 1 1 5ACC1F79
-P 4400 5950
-F 0 "J16" H 4480 5992 50  0000 L CNN
-F 1 "50V_GND" H 4480 5901 50  0000 L CNN
-F 2 "MountingHole:MountingHole_4mm_Pad_Via" H 4400 5950 50  0001 C CNN
-F 3 "~" H 4400 5950 50  0001 C CNN
-	1    4400 5950
+P 4400 5750
+F 0 "J16" H 4480 5792 50  0000 L CNN
+F 1 "50V_GND" H 4480 5701 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4_Pad_Via" H 4400 5750 50  0001 C CNN
+F 3 "~" H 4400 5750 50  0001 C CNN
+	1    4400 5750
 	-1   0    0    1   
 $EndComp
 Wire Wire Line
@@ -3016,4 +3016,20 @@ Wire Wire Line
 Wire Wire Line
 	14300 3950 14300 4100
 Connection ~ 14300 4100
+Wire Wire Line
+	4600 5950 4600 6150
+$Comp
+L Connector_Specialized:Screw_Terminal_01x01 J18
+U 1 1 5ACE25F3
+P 4400 6150
+F 0 "J18" H 4480 6192 50  0000 L CNN
+F 1 "50V_GND" H 4480 6101 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 4400 6150 50  0001 C CNN
+F 3 "~" H 4400 6150 50  0001 C CNN
+	1    4400 6150
+	-1   0    0    1   
+$EndComp
+Connection ~ 4600 6150
+Wire Wire Line
+	4600 6150 4600 6350
 $EndSCHEMATC
