@@ -1,0 +1,33 @@
+2ks https://www.tme.eu/cz/details/oar5r005flf/rezistory-5w/tt-electronics/
+10ks https://www.tme.eu/cz/details/uvz1j101mpd/elektrolyticke-kondenzatory-tht-105c/nichicon/
+10ks https://www.tme.eu/cz/details/lqm21fn100n00l/tlumivky-smd-0805/murata/
+1ks https://www.tme.eu/cz/details/16.00m-cfpx-218a/kremikove-rezonatory-smd/iqd-frequency-products/lfxtal071268cutt/
+100ks https://www.tme.eu/cz/details/smd0805-499r-1%25/rezistory-smd-0805/royal-ohm/0805s8f4990t5e/
+2ks https://www.tme.eu/cz/details/keys7808/pajeci-kontakty-do-pcb/keystone/7808/
+1ks https://www.tme.eu/cz/details/atmega328p-au/rodina-avr-8-bitu/microchip-atmel/
+2ks https://cz.mouser.com/ProductDetail/ON-Semiconductor/BBS3002-TL-1E?qs=Tr3lMbyRyKnqU1AVXviNXA%3D%3D
+25 ks https://www.tme.eu/cz/details/bc847alt1g/tranzistory-npn-smd/on-semiconductor/
+10 ks https://www.tme.eu/cz/details/b2b-xh-a/signalove-konektory-raster-250mm/jst/
+10 ks https://www.tme.eu/cz/details/xhp-2/signalove-konektory-raster-250mm/jst/
+50ks https://www.tme.eu/cz/details/sxh-001t-p0.6/signalove-konektory-raster-250mm/jst/
+3ks https://www.tme.eu/cz/details/mx-6471-091/signalove-konektory-raster-254mm/molex/0022012095-22-01-2095-6471-09i/
+2ks https://www.tme.eu/cz/details/mx-6410-09a/signalove-konektory-raster-254mm/molex/022272091-22-27-2091-ae-6410-09a102/
+5ks https://www.tme.eu/cz/details/de1209-230/vykonne-tlumivky-smd/ferrocore/
+100ks https://www.tme.eu/cz/details/vj0805y473kxacw1bc/kondenzatory-mlcc-smd-0805/vishay/
+50ks https://www.tme.eu/cz/details/cl201209t-r47k-n/tlumivky-smd-0805/yageo/
+10ks https://www.tme.eu/cz/details/blm31pg500sn1l/koralky-s-feritem/murata/
+25ks https://www.tme.eu/cz/details/bc847alt1g/tranzistory-npn-smd/on-semiconductor/
+1 ks https://cz.mouser.com/ProductDetail/Texas-Instruments/LM2576HVS-12-NOPB?qs=sGAEpiMZZMtitjHzVIkrqaeIqJaO9bXJNE3LXDzO13Y%3d
+3ks https://www.tme.eu/cz/details/lm4040cym3-2.5-tr/zdroje-napetove-reference-obvody/microchip-technology/
+3ks https://www.tme.eu/cz/details/lp2950cdt-5.0g/stabilizatory-napeti-neregulovane-ldo/on-semiconductor/
+3ks https://www.tme.eu/cz/details/lp2951acd-3.3r2g/stabilizatory-napeti-neregulovane-ldo/on-semiconductor/
+1ks https://cz.mouser.com/ProductDetail/Analog-Devices/LTC6101AHS5TRMPBF?qs=sGAEpiMZZMvEn2pkGav3bO2XyaUYx9QRWyVmJ46IFE0gLAR2BSW8iA%3d%3d
+10ks https://www.tme.eu/cz/details/nfm21cc223r1h3d/odrusovaci-filtry-smd/murata/
+5ks https://www.tme.eu/cz/details/stps3l60u/diody-schottky-smd/st-microelectronics/
+5ks https://www.tme.eu/cz/details/3314j-1-103e/potenciometry-jednootackove-smd/bourns/
+10ks https://www.tme.eu/cz/details/utt1c470mdd/elektrol-kondenzatory-tht-s-niz-imped/nichicon/
+
+
+
+
+
