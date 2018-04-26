@@ -26,7 +26,9 @@
 5ks https://www.tme.eu/cz/details/stps3l60u/diody-schottky-smd/st-microelectronics/
 5ks https://www.tme.eu/cz/details/3314j-1-103e/potenciometry-jednootackove-smd/bourns/
 10ks https://www.tme.eu/cz/details/utt1c470mdd/elektrol-kondenzatory-tht-s-niz-imped/nichicon/
+________________________________________________________________________________________________________________
 
+10ks https://www.tme.eu/cz/details/640-22k/merici-termistory-ntc-tht/vishay/ntcle100e3223jb0/
 
 
 
